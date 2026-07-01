@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0274/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 事鈔戒業疏科別錄合冊
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2259.xml
+    old_id: G104n2259
+hash: sha256:7f8c616f57ac0ee974f52133622f075ae397173481930164840676a477227cae

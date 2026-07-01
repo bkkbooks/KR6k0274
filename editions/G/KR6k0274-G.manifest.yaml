@@ -1,0 +1,338 @@
+canonical_identifier: bkk:krp/KR6k0274/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0274/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 事鈔戒業疏科別錄合冊
+  identifiers:
+    krp: KR6k0274
+    cbeta: G104n2259
+    cbeta_old_id: G104n2259
+    authorityid: CA0008652
+    json_key: G2259
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2259.xml
+    old_id: G104n2259
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0274_000-G.yaml, hash: 'sha256:7f8c616f57ac0ee974f52133622f075ae397173481930164840676a477227cae'}
+  - {seq: 1, filename: KR6k0274_001-G.yaml, hash: 'sha256:eac9776b6de116bd668f62b2a05ed3412bc67879142472fd5e1fa818a34e54c2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0274_000-G.markers.yaml, hash: 'sha256:9659a28a6ba33e73e64972e4b381d5a59a11855f3aa896bd6726b442b80e1246'}
+  - {seq: 1, role: markers, filename: assets/KR6k0274_001-G.markers.yaml, hash: 'sha256:527274670d9366892b86febeceeb91c5ba560fb4e2f68d3d85321ba734fe0fe2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 15133
+  label: 事鈔戒業疏科別錄合冊第一輯
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-2
+    span:
+    - body
+    - 254
+    - 254
+  label: 事鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-3
+    span:
+    - body
+    - 263
+    - 263
+  label: 序文科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-4
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 標宗顯德篇科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-5
+    span:
+    - body
+    - 1863
+    - 1863
+  label: 篇聚名報篇科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-6
+    span:
+    - body
+    - 2729
+    - 2729
+  label: 隨戒釋相篇科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-7
+    span:
+    - body
+    - 3877
+    - 3877
+  label: 盜戒科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-8
+    span:
+    - body
+    - 4967
+    - 4967
+  label: 持犯方軌篇科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-9
+    span:
+    - body
+    - 6722
+    - 6722
+  label: 懺六聚法篇略科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-10
+    span:
+    - body
+    - 7004
+    - 7004
+  label: 沙彌別行篇略科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-11
+    span:
+    - body
+    - 7354
+    - 7354
+  label: 戒疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-12
+    span:
+    - body
+    - 7362
+    - 7362
+  label: 諸篇方便章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-13
+    span:
+    - body
+    - 7904
+    - 7904
+  label: 持犯義章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-14
+    span:
+    - body
+    - 8708
+    - 8708
+  label: 波羅夷約義以明章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-15
+    span:
+    - body
+    - 9480
+    - 9480
+  label: 婬戒犯緣闕緣章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-16
+    span:
+    - body
+    - 9529
+    - 9529
+  label: 制廣教五意章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-17
+    span:
+    - body
+    - 9907
+    - 9907
+  label: 境想義門章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-18
+    span:
+    - body
+    - 10006
+    - 10006
+  label: 大盜戒科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-19
+    span:
+    - body
+    - 11072
+    - 11072
+  label: 大殺戒犯緣闕緣章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-20
+    span:
+    - body
+    - 11138
+    - 11138
+  label: 大妄語戒犯緣闕緣章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-21
+    span:
+    - body
+    - 11161
+    - 11161
+  label: 僧殘義門持犯方軌章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-22
+    span:
+    - body
+    - 11268
+    - 11268
+  label: 捨墮義門持犯方軌章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-23
+    span:
+    - body
+    - 11314
+    - 11314
+  label: 單提義門持犯方軌章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-24
+    span:
+    - body
+    - 11437
+    - 11437
+  label: 提舍義門持犯方軌章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-25
+    span:
+    - body
+    - 11476
+    - 11476
+  label: 眾學義門持犯方軌章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-26
+    span:
+    - body
+    - 11578
+    - 11578
+  label: 業疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-27
+    span:
+    - body
+    - 11586
+    - 11586
+  label: 俗人受法章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-28
+    span:
+    - body
+    - 12412
+    - 12412
+  label: 出家宗致章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-29
+    span:
+    - body
+    - 12692
+    - 12692
+  label: 戒體章科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0274_G_001-mulu-30
+    span:
+    - body
+    - 14562
+    - 14562
+  label: 懺六聚法篇略科
+  type: mulu
+  level: 1
+hash: sha256:d51b11f407663850df4a9708dbc9e567faf86f0abcbbf95d994ff3fadfe1728b
