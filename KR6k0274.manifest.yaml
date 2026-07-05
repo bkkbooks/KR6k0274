@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0274_000.yaml, hash: 'sha256:7f8c616f57ac0ee974f52133622f075ae397173481930164840676a477227cae'}
-  - {seq: 1, filename: KR6k0274_001.yaml, hash: 'sha256:7c5bc6302d1c400960e9ffce785f079d0a81e6d9f322ccddc23b840e8f6a6685'}
+  - {seq: 1, filename: KR6k0274_001.yaml, hash: 'sha256:eac9776b6de116bd668f62b2a05ed3412bc67879142472fd5e1fa818a34e54c2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0274_001.markers.yaml, hash: 'sha256:fbeb4b34072e73492f6cc2bb3a9dcc37f43845782e7acebee4d8be4bcd3f9add'}
+  - {seq: 0, role: markers, filename: assets/KR6k0274_000.markers.yaml, hash: 'sha256:6926fead9ebdf451dbf6290e2b15976323be073d52509bfc1ea2be51034166e2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0274_001.markers.yaml, hash: 'sha256:896760d0391a049e94c3439157b8a6547f55355f4d07b8d260ae39206153adee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -328,9 +329,6 @@ table_of_contents:
   label: 懺六聚法篇略科
   type: mulu
   level: 1
-hash: sha256:db88005fc381e40f7417696e0fb0f46746d3a0766cef960f78d754af40edbb63
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a9c2d5a280dcf8d8049b45439a2e80764886704a381ba063a53e6a7e80df3dbd
 editions:
 - short: G
