@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0274/v1
 canonical_location: https://kanripo.org/bkk/KR6k0274/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 事鈔戒業疏科別錄合冊
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0274_000.yaml, hash: 'sha256:7f8c616f57ac0ee974f52133622f075ae397173481930164840676a477227cae'}
-  - {seq: 1, filename: KR6k0274_001.yaml, hash: 'sha256:eac9776b6de116bd668f62b2a05ed3412bc67879142472fd5e1fa818a34e54c2'}
+  - {seq: 1, filename: KR6k0274_001.yaml, hash: 'sha256:2fb844c00678dc10df84e970ae03781e69c0ca8d674b7400138af8bc8a37e177'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0274_000.markers.yaml, hash: 'sha256:6926fead9ebdf451dbf6290e2b15976323be073d52509bfc1ea2be51034166e2'}
-  - {seq: 1, role: markers, filename: assets/KR6k0274_001.markers.yaml, hash: 'sha256:896760d0391a049e94c3439157b8a6547f55355f4d07b8d260ae39206153adee'}
+  - {seq: 1, role: markers, filename: assets/KR6k0274_001.markers.yaml, hash: 'sha256:309b1e375fcc8b2e30c431a8e610a604b7ee20edf1e8727c83dab881af13053a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -329,6 +329,9 @@ table_of_contents:
   label: 懺六聚法篇略科
   type: mulu
   level: 1
-hash: sha256:a9c2d5a280dcf8d8049b45439a2e80764886704a381ba063a53e6a7e80df3dbd
+hash: sha256:59ad5c62615b34528e74163bc36f1cfae042d5ccd52cedf11e961ac19cd92850
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
