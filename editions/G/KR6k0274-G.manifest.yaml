@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6k0274_001-G.yaml, hash: 'sha256:eac9776b6de116bd668f62b2a05ed3412bc67879142472fd5e1fa818a34e54c2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0274_000-G.markers.yaml, hash: 'sha256:9659a28a6ba33e73e64972e4b381d5a59a11855f3aa896bd6726b442b80e1246'}
-  - {seq: 1, role: markers, filename: assets/KR6k0274_001-G.markers.yaml, hash: 'sha256:527274670d9366892b86febeceeb91c5ba560fb4e2f68d3d85321ba734fe0fe2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0274_001-G.markers.yaml, hash: 'sha256:4619e7a7ad11ad63a4e0ff61bb50aeb4f32828e1e3626edb67bbd28b16136224'}
 table_of_contents:
 - ref:
     seq: 1
@@ -335,4 +335,4 @@ table_of_contents:
   label: 懺六聚法篇略科
   type: mulu
   level: 1
-hash: sha256:d51b11f407663850df4a9708dbc9e567faf86f0abcbbf95d994ff3fadfe1728b
+hash: sha256:518f597642a3e55e720eef44a109b7bdcfb7b26dcbc3c7506ee20c99a48b8cff
